@@ -1,0 +1,26 @@
+TERNÁRIO
+
+??
+:
+
+TESTE?TRUE:FALSE
+
+EX:
+VAR A = 5
+
+A<=5?'APROVADO':'REPROVADO'
+'APROVADO'
+------------------------------
+
+VAR A = 8
+
+VAR B = A % 2 == 0 ? 5 : 4
+
+A%2== 0
+
+"APROVADO"
+    5
+----------------------
+VAR IDADE = 19
+
+VAR R = IDADE >=18 ?MAIOR:MENOR

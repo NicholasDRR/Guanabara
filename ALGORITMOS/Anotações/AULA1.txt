@@ -1,0 +1,9 @@
+ALGORITMO
+/////////////////
+Algoritmos são conjuntos de passos finitos e organizados que, quando executados, resolvem um determinado problema
+/////////////////
+Reprodução de padrões = rotina
+/////////////////
+
+
+

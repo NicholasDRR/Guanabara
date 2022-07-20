@@ -1,0 +1,58 @@
+OPERADORES ALGORITMOS
+
++ ADIÇÃO
+
+- SUBTRAÇÃO
+
+* MULTIPLICAÇÃO
+
+/ DIVISÃO
+
+\ DIVISÃO INTEIRA
+
+^ EXPONENCIAÇÃO
+
+% MÓDULO
+\\\\\\\\\\\\\\\\\\\\\\
+A <- 5
+B <- 2
+
+A+B 7
+
+A-B 3 
+
+A*B 10
+
+A/B 2.5
+
+A\B 2 
+
+A^B 25
+
+A%B 1
+\\\\\\\\\\\\\\\\\\\\\\
+PRECEDÊNCIA
+()
+^
+* \
++ -
+\\\\\\\\\\\\\\\\\\\\\\
+FUNÇÕES ARITMÉTICAS
+
+Abs  /Valor absoluto 
+
+Exp  /Exponenciação 
+
+Int  /Inteiro
+
+RaizQ  /Raiz quadrada
+
+Pi  /Retorna Pi 
+
+Sen  /Seno (rad)
+
+Cos  /Cosseno(rad)
+
+Tan  /Tangente(rad)
+
+GraupRad /Graus pra rad

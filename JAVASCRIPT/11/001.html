@@ -1,0 +1,29 @@
+<! DOCTYPE html>
+ <html lang = "pt-BR">
+ <head>
+     <meta charset = "UTF-8">
+     <meta name = "viewport" content = "width = device-width, initial-scale = 1.0" >
+     <meta http-equiv = "X-UA-Compatible" content = "ie = edge">
+     <title> País </title>
+ </head>xxxxxxxxxxxx
+ <body>
+     <h1> Seu país </h1>
+     país <tipo de entrada = "text" name = "txtvel" id = "txtvel">
+     <input type = "button" value = "Verify" onclick = "verify ()">
+     <div id = "res">
+     </div>
+     <script>
+        function check () {
+             var txtv = window.document.querySelector ('input#txtvel')
+             var res = window.document.querySelector (' div#carne')
+             var vel = (txtv.value)
+             res.innerHTML = `<p> Você está em <strong> $ [vel relevant </strong> <p>
+             if (vel ==' Brazil ') {
+                 res.innerHTML + = '<p> Você é <strong> Brasileiro! </strong> <p>'
+             } else {
+                 res.innerHTML + = '<p> Você é <strong> Estrangeiro! </strong> <p>'
+             }
+         }
+     < / script>
+ </body>
+ </html>

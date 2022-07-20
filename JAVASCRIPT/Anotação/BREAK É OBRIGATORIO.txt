@@ -1,0 +1,2 @@
+Condição multipla 
+Break é obrigatório no final dos cases e do default

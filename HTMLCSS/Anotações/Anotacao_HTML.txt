@@ -1,0 +1,67 @@
+
+<P> Paragrafo
+
+<Hl> Negrito no começo
+
+<Stong> importancia no texto
+
+<em> italico
+
+Tecla tab espaçamento no visual não altera o codigo na tela
+
+<meta charset="UFT-8"> Altera a liguaguem para compatibilidade dos acêntos
+ 
+<HTML> Se é preciso colocar no inicio ou fim de uma pagina
+
+<Lang> altera a linguagem utilizada
+
+<Title> Altera o titulo da pagina
+
+<Head> Informa o navegador as tag a serem configuradas
+
+<body> Informa ao navegador as tag a serem lidas
+
+<p style="font-size: 20px">Altera o tamanho da fonte
+
+<style> Sempre server para personalização do texto
+
+<H1 style="text-align:center"> Centraliza o texto
+
+;Separa as tag
+
+<Doctype html>sicroniza com a versão do html
+
+<link rel="stylesheet" href="style.css"> Sicroniza com arquivos externos.css
+
+<background: #cccccc> Cor de fundo
+
+<id> cria uma referencia o css
+
+<img src="> adiciona uma imagem
+
+<FDOze e importante demais>
+
+<width:100%
+
+Como ajustar a altura do elemento, através da propriedade height
+
+Como ajustar a largura do elemento, através da propriedade width
+
+Como ajustar o espaçamento interno do elemento, através da propriedade padding
+
+Como ajustar o espaçamento externo do elemento, através da propriedade margin
+
+<ul> lista não ordenada
+
+<ol> lista com ordenação
+
+<class="itens">Criação de classses no css utiliza-se .itens
+
+(Todas classes .)
+
+<Header> Cabeçalho
+
+display: inline-block; quebra o bloqueio
+    vertical-align: top; Alinha para cima
+
+

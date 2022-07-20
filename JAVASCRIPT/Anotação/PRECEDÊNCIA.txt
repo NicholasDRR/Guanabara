@@ -1,0 +1,11 @@
+Precedência
+()
+**
+* / %
++ -
+
+Precedência
+
+ARITMÉTICOS
+RELACIONAIS
+LÓGICOS

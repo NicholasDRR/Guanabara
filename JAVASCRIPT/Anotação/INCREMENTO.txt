@@ -1,0 +1,11 @@
+INCREMENTOS
+EX:
+VAR X = 5
+
+X= X+1    6  OU X+=1
+X= X-1    5  OU X-=1
+
+VAR X = 5
+
+X++ = 6
+X-- = 5

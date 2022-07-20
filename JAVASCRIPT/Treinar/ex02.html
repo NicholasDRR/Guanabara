@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div id = "res">
+        <p>
+            Digite seu número: <input type="number" name="txtn" id="txtn">
+            <input type="button" value="Mostrar" onclick = "Mostrar()">
+        </p>
+    </div>
+</body>
+<script>
+    function Mostrar(){
+    var isa = Number(txtn.value)
+    var res = document.querySelector ('div#res')
+    res.innerHTML = `SEU NÚMERO É ${isa} Caralho :D`
+    
+   
+   
+    
+    }
+</script>
+</html>

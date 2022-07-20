@@ -1,0 +1,28 @@
+ALGORITMOS COMPUTACIONAIS
+São passos a serem seguidos por um módulo processador e seus respectivos usuários que, quando executados na ordem correta, conseguem realizar determinada tarefa
+//////////////////////
+MÓDELO PROCESSADOR 
+é tudo aquilo que pode ser programável
+//////////////////////
+USUÁRIO
+SÃO TODAS AS PESSOAS QUE USAM O SEU PROGRAMA/ALGORITMO
+//////////////////////
+REALIZAR TAREFA
+É RESOLVER UM DETERMINADO PROBLEMA QUE O USUÁRIO ESTEJA TENDO
+//////////////////////
+TIPOS DE IDENTTIFICADORES EM ALGORITMOS
+
+INTEIRO: 1 3 -5 198 0 
+
+REAL: 0.5 5.0 9.8 -77.3 3.1415
+
+CARACTERE:"GUSTAVO" "Algoritmo" "123"
+
+LÓGICO: verdadeiro ou falso
+//////////////////////
+ATRIBUIÇÃO
+
+var msg: caractere
+msg<- "Olá mundo"
+//////////////////////
+
