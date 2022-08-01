@@ -1,2 +1,2 @@
 ## Guanabara
-Alguns exercícios e anotações (cursoemvideo.com)
+Alguns exercícios e anotações [**Cursoemvideo**](https://www.cursoemvideo.com//)
